@@ -22,6 +22,11 @@ pip3 install python-telegram-bot threading
 * Edit IP server in bot.c
 * Edit Telegram Bot Token in cnc.py
 
+### Functions
+
+- Reverse Shell
+- soon
+
 ## Authors
 
 * hoaan1995
