@@ -6,7 +6,7 @@ Telegram IOT Botnet was created for learning purposes. Please do not use for mal
 
 ### Dependencies
 
-* C&C Server need Ubuntu 20.04
+* C&C Server need VPS Ubuntu 20.04 (1GB 1 CORES ITS OK LOL)
 
 ### Installing
 
