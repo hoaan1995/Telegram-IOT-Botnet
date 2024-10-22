@@ -25,8 +25,8 @@ pip3 install python-telegram-bot threading
 ### Functions
 
 - Reverse Shell
+- DDoS (udpflood, soon)
 - Ensure Bots (soon)
-- DDoS (soon)
 - Killer & Locker (soon)
 - If you have ideas, create Issue and write its. Thanks you ❤️
 
