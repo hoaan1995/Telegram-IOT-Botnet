@@ -28,7 +28,7 @@ pip3 install python-telegram-bot threading
 - Ensure Bots (soon)
 - DDoS (soon)
 - Killer & Locker (soon)
-If you have ideas, create Issue and write its. Thanks you ❤️
+- If you have ideas, create Issue and write its. Thanks you ❤️
 
 ## Authors
 
